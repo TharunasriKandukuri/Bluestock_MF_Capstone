@@ -8,4 +8,25 @@ This project is part of the Bluestock Fintech Internship.
 - Live NAV data fetched using MFAPI
 - Data quality summary prepared
 
-Author: Tharuna Sri
+## Day 2
+
+* Cleaned NAV history data and removed duplicates.
+* Standardized investor transaction records and validated transaction types.
+* Cleaned scheme performance dataset and filtered invalid expense ratios.
+* Designed SQLite database schema using dimension and fact tables.
+* Loaded cleaned datasets into SQLite database (`bluestock_mf.db`).
+* Created analytical SQL queries for mutual fund analysis.
+* Prepared a data dictionary documenting important fields and data types.
+
+### Deliverables
+
+* schema.sql
+* queries.sql
+* data_dictionary.md
+* load_to_sqlite.py
+* 02_nav_history_cleaned.csv
+* 07_scheme_performance_cleaned.csv
+* 08_investor_transactions_cleaned.csv
+* bluestock_mf.db
+
+Author:- Tharuna sri

@@ -37,3 +37,23 @@ GROUP BY category;
 
 SELECT AVG(expense_ratio_pct)
 FROM dim_fund;
+
+-- Total transactions
+SELECT COUNT(*) FROM fact_transactions;
+
+-- Average transaction amount
+SELECT AVG(amount_inr) FROM fact_transactions;
+
+-- Funds by fund house
+SELECT fund_house, COUNT(*)
+FROM dim_fund
+GROUP BY fund_house;
+
+-- KYC status distribution
+SELECT kyc_status, COUNT(*)
+FROM fact_transactions
+GROUP BY kyc_status;
+
+-- Average annual income
+SELECT AVG(annual_income_lakh)
+FROM fact_transactions;

@@ -7,7 +7,6 @@ GROUP BY amfi_code
 ORDER BY avg_nav DESC
 LIMIT 5;
 
-
 -- Transaction count by state
 
 SELECT state,

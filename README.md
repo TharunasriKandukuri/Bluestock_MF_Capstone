@@ -29,4 +29,11 @@ This project is part of the Bluestock Fintech Internship.
 * 08_investor_transactions_cleaned.csv
 * bluestock_mf.db
 
+## Day 3 – Exploratory Data Analysis (EDA)
+
+- Created 12+ visualizations using Plotly, Seaborn and Matplotlib.
+- Analyzed NAV trends, SIP inflows, investor demographics and fund performance.
+- Generated state-wise, category-wise and risk-return visualizations.
+- Documented 10 key EDA insights from the analysis.
+
 Author:- Tharuna sri

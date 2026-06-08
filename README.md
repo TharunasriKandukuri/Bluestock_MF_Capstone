@@ -36,4 +36,20 @@ This project is part of the Bluestock Fintech Internship.
 - Generated state-wise, category-wise and risk-return visualizations.
 - Documented 10 key EDA insights from the analysis.
 
+## Day 4 – Fund Performance Analytics
+- Calculated Daily Returns.
+- Computed CAGR for all schemes.
+- Calculated Sharpe Ratio.
+- Calculated Sortino Ratio.
+- Calculated Alpha and Beta using benchmark returns.
+- Calculated Maximum Drawdown.
+- Generated Fund Scorecard and rankings.
+- Created benchmark comparison visualizations.
+
+### Deliverables
+* alpha_beta.csv
+* fund_scorecard.csv
+* benchmark_comparison.png
+* Performance Analytics Notebook
+
 Author:- Tharuna sri

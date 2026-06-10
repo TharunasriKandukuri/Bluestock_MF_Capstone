@@ -54,28 +54,31 @@ This project is part of the Bluestock Fintech Internship.
 
 ### Day 5 – Dashboard Development (Power BI)
 **1. Industry Overview**
-- Total AUM (Assets Under Management)
-- Total Schemes
-- Total SIP Inflows
-- Total Folios
-- Industry AUM Trend (2022–2025)
-- Top 10 AMCs by AUM
-- Category Filters (Debt/Equity)
+ - Total AUM (Assets Under Management)
+ - Total Schemes
+ - Total SIP Inflows
+ - Total Folios
+ - Industry AUM Trend (2022–2025)
+ - Top 10 AMCs by AUM
+ - Category Filters (Debt/Equity)
+
 **2. Fund Performance**
-- Fund Return vs Risk Analysis (Scatter Plot)
-- Fund Performance Scorecard
-- NAV vs Benchmark Trend
-- Fund House, Category, and Plan Filters
+ - Fund Return vs Risk Analysis (Scatter Plot)
+ - Fund Performance Scorecard
+ - NAV vs Benchmark Trend
+ - Fund House, Category, and Plan Filters
+  
 **3. Investor Analytics**
-- Transaction Amount by State
-- Investment Type Distribution
-- Average SIP by Age Group
-- Monthly Transaction Volume
+ - Transaction Amount by State
+ - Investment Type Distribution
+ - Average SIP by Age Group
+ - Monthly Transaction Volume
+   
 **4. SIP & Market Trends**
-- Monthly SIP Inflow Trend
-- Category-wise Net Inflows
-- Top Categories by Net Inflow
-- NIFTY 50 Market Trend
+ - Monthly SIP Inflow Trend
+ - Category-wise Net Inflows
+ - Top Categories by Net Inflow
+ - NIFTY 50 Market Trend
 
 **Deliverables**
 - Power BI Dashboard (.pbix)
@@ -87,21 +90,26 @@ This project is part of the Bluestock Fintech Internship.
 - Calculated Value at Risk (95%)
 - Calculated Conditional Value at Risk (CVaR)
 - Generated risk report for mutual fund schemes
+  
 **2. Rolling 90-Day Sharpe Ratio**
 - Computed rolling Sharpe Ratio
 - Visualized risk-adjusted performance trends
 - Exported chart as PNG
+  
 **3. Investor Cohort Analysis**
 - Grouped investors by first transaction year
 - Calculated average investment amount
 - Identified cohort-level investment behavior
+  
 **4. SIP Continuity Analysis**
 - Calculated average gap between SIP transactions
 - Identified "At Risk" investors with gaps greater than 35 days
 - Evaluated SIP continuity trends
+  
 **5. Fund Recommendation System**
 - Recommended top-performing funds using Sharpe Ratio
 - Categorized recommendations by risk profile
+  
 **6. HHI Concentration Analysis**
 - Calculated Herfindahl-Hirschman Index (HHI)
 - Evaluated portfolio diversification levels
